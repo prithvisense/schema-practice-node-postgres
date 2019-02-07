@@ -1,0 +1,127 @@
+storeName,storeId,customerAccount,channel,retailClass,dealerClass,stateOrProvince,city,franchiseeName,region,kwiStoreId,subTerritory,active,RSM,KAM,TM,salesDirector
+3871 Pandora @ Mayfair Mall,PANDORA/MAYFAIR,USR0006357,O&O,Concept,B,WI,WAUWATOSA,O&O,MIDWEST,218254,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3922 PANDORA @ Fox River Mall - Store #722,C011020,USR0009523,O&O,Concept,B,WI,APPLETON,O&O,MIDWEST,218722,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3839 Pandora Fair Oaks,PANDORA/FAIROAK,USR0006262,O&O,Concept,B,VA,FAIRFAX,O&O,SOUTH,218251,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3874 Pandora Fashion Center @ Pentagon City,PANDORA/PENTAGO,USR0006426,O&O,Concept,B,VA,ARLINGTON,O&O,SOUTH,218472,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3894 Pandora @ Short Pump Mall,PANDORA/RICHMON,USR0006450,O&O,Concept,B,VA,RICHMOND,O&O,SOUTH,218327,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3842 Pandora Tysons Corner,PANDORA/TYSON,USR0006536,O&O,Concept,B,VA,MCLEAN,O&O,SOUTH,218245,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+Pandora @ MacArthur Mall,PANDORA/MAC ART,USR0046646,O&O,Concept,C,VA,NORFOLK,O&O,SOUTH,NA,South Atlantic ,,Cindy Gibney,unknown,Barbara Pigg,Detria Courtalis
+Pandora @ Stony Point,PANDORA/STONY,USR0046656,O&O,Concept,C,VA,RICHMOND,O&O,SOUTH,NA,South Atlantic ,,Cindy Gibney,unknown,Barbara Pigg,Detria Courtalis
+3898 PANDORA @ Deerbrook Mall - Store #772,C010862,USR0001269,O&O,Concept,B,TX,HUMBLE,O&O,SOUTH,218772,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3891 Pandora @ Killeen Mall,PANDORA/KILLEEN,USR0006315,O&O,Concept,C,TX,KILLEEN,O&O,SOUTH,218605,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3917 Pandora @ Northstar,PANDORA/NORTHST,USR0006394,O&O,Concept,B,TX,SAN ANTONIO,O&O,SOUTH,218257,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3872 Pandora @ The Woodlands Mall,PANDORA/THEWOOD,USR0006515,O&O,Concept,B,TX,THE WOODLANDS,O&O,SOUTH,218271,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3873 Pandora @ Willowbrook Mall TX,PANDORA/WILLOW,USR0006567,O&O,Concept,B,TX,HOUSTON,O&O,SOUTH,218270,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3904 PANDORA @ Shops at Saddle Creek - Store #808,C010881,USR0001283,O&O,Concept,B,TN,GERMANTOWN,O&O,SOUTH,218208,East South Central ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3864 Pandora @ Providence Place Mall,PANDORA/PROV,USR0006441,O&O,Concept,C,RI,PROVIDENCE,O&O,NORTHEAST,218156,New England ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3870 Pandora @ Warwick Mall,PANDORA/WARWICK,USR0006555,O&O,Concept,C,RI,WARWICK,O&O,NORTHEAST,218470,New England ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3905 PANDORA @ Monroeville - Store #801,C010882,USR0001284,O&O,Concept,C,PA,Monroeville,O&O,NORTHEAST,218206,Middle Atlantic ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3836 Pandora @ Pittsburgh Int. Airport,PANDORA/PITTSBU,USR0006433,O&O,Concept,D,PA,PITTSBURGH,O&O,NORTHEAST,218657,Middle Atlantic ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3827 Pandora @ Ross Park Mall,PANDORA/ROSS,USR0006460,O&O,Concept,B,PA,PITTSBURGH,O&O,NORTHEAST,218160,Middle Atlantic ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3830 Pandora @ South Hills Mall,PANDORA/SOUTH H,USR0006492,O&O,Concept,B,PA,PITTSBURGH,O&O,NORTHEAST,218289,Middle Atlantic ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3834 Pandora @ Walnut Street,PANDORA/WALNUT,USR0006553,O&O,Concept,B,PA,PHILADELPHIA,O&O,NORTHEAST,218705,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3822 Pandora @ Westmoreland,PANDORA/WESTMOR,USR0006563,O&O,Concept,C,PA,GREENSBURG,O&O,NORTHEAST,218390,Middle Atlantic ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+Pandora @ Penn Square Mall,PANDORA/OKLAHOM,USR0046626,O&O,Concept,B,OK,OKLAHOMA CITY,O&O,SOUTH,218223,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3906 PANDORA @ Eastwood Mall - Store #706,C010889,USR0001291,O&O,Concept,B,OH,NILES,O&O,MIDWEST,218706,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3880 Pandora @ Beachwood Place Mall,PANDORA/BEACHWO,USR0006169,O&O,Concept,B,OH,BEACHWOOD,O&O,MIDWEST,218108,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3881 Pandora @ Belden Village,PANDORA/BELDEN,USR0006171,O&O,Concept,B,OH,CANTON,O&O,MIDWEST,218311,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3878 Pandora @ Franklin Park Mall,PANDORA/FRANKLI,USR0006275,O&O,Concept,B,OH,TOLEDO,O&O,MIDWEST,218136,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3889 Pandora @ Great Lakes Mall,PANDORA/GREATLA,USR0006290,O&O,Concept,B,OH,MENTOR,O&O,MIDWEST,218646,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3882 Pandora @ Great Northern Mall,PANDORA/OLMSTED,USR0006402,O&O,Concept,B,OH,NORTH OLMSTED,O&O,MIDWEST,218387,East North Central ,,Michael Hurd,unknown,Kristy Barnes,Jackie Spencer
+3911 PANDORA @ Poughkeepsie Galleria - Store #806,C010880,USR0001282,O&O,Concept,B,NY,POUGHKEEPSIE,O&O,NORTHEAST,218209,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3901 PANDORA @ Sangertown Square Mall - Store #810,C010888,USR0001290,O&O,Concept,B,NY,New Hartford,O&O,NORTHEAST,218213,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3811 Pandora @ Crossgates Mall,HANNOU CONALBAN,USR0003147,O&O,Concept,B,NY,ALBANY,O&O,NORTHEAST,218106,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3817 Pandora @ Walden Galleria,HANNOU CONBUFFA,USR0003149,O&O,Concept,B,NY,Buffalo,O&O,NORTHEAST,218117,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3813 Pandora @ Galleria Crystal Run,HANNOU CONMIDDL,USR0003152,O&O,Concept,B,NY,MIDDLETOWN,O&O,NORTHEAST,218104,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3812 Pandora @ Carousel Center,HANNOU CONSYRAC,USR0003154,O&O,Concept,B,NY,Syracuse,O&O,NORTHEAST,218107,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3814 Pandora @ Palisades Center,HANNOUSH/NYACK,USR0003200,O&O,Concept,B,NY,WEST NYACK,O&O,NORTHEAST,218109,Middle Atlantic ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3845 Pandora @ Broadway on SoHo,PANDORA/BROADWA,USR0006190,O&O,Concept,A,NY,NEW YORK,O&O,NORTHEAST,218397,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+3808 Pandora @ World Trade Center,PANDORA/WTC,USR0006575,O&O,Concept,B,NY,NEW YORK,O&O,NORTHEAST,218464,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+Pandora @ Bay Ridge,PANDORA/BAY RID,USR0046642,O&O,Concept,B,NY,BROOKLYN,O&O,NORTHEAST,NA,Middle Atlantic ,,Michele Heary,unknown,Barbara Geiger,Detria Courtalis
+Pandora @ Atlantic Terminal,PANDORA/BROOKLY,USR0046640,O&O,Concept,A,NY,BROOKLYN,O&O,NORTHEAST,NA,Middle Atlantic ,,Michele Heary,unknown,Barbara Geiger,Detria Courtalis
+Pandora @ Roosevelt Field Mall,PANDORA/ROOSEVE,USR0046652,O&O,Concept,AAA,NY,GARDEN CITY,O&O,NORTHEAST,NA,Middle Atlantic ,,Michele Heary,unknown,Barbara Geiger,Detria Courtalis
+Pandora @ Ridge Hill,PANDORA/YONKERS,USR0046658,O&O,Concept,B,NY,YONKERS,O&O,NORTHEAST,NA,Middle Atlantic ,,Stacie Gordon,unknown,Rachel Dorsey,Detria Courtalis
+3818 Pandora @ Garden State Plaza,HANNOU CONGARDE,USR0003151,O&O,Concept,B,NJ,PARAMUS,O&O,NORTHEAST,218123,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+3829 Pandora @ Bridgewater Commons Mall,PANDORA/BRIDGE,USR0006188,O&O,Concept,B,NJ,BRIDGEWATER,O&O,NORTHEAST,218161,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+3841 Pandora Freehold,SMYTH/FREEHOLD,USR0008202,O&O,Concept,A,NJ,FREEHOLD,O&O,NORTHEAST,218200,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+3935 Pandora @ Monmouth Mall,PANDORA/MONMOUT,USR0006372,O&O,Concept,B,NJ,Eatontown,O&O,NORTHEAST,218448,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+3934 Pandora @ Rockaway Town Square,PANDORA/ROCK,USR0006454,O&O,Concept,B,NJ,ROCKAWAY,O&O,NORTHEAST,218087,Middle Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Nancy Wall,Jackie Spencer
+Pandora @ Mall at Short Hills,PANDORA/SHORT,USR0046650,O&O,Concept,B,NJ,SHORT HILLS,O&O,NORTHEAST,NA,Middle Atlantic ,,Stacie Gordon,unknown,John Gremillot,Detria Courtalis
+3859 Pandora @ Fox Run Mall,PANDORA/FOX RUN,USR0006270,O&O,Concept,D,NH,NEWINGTON,O&O,NORTHEAST,218290,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3826 Pandora @ Mall of NH,PANDORA/N HAMP,USR0006379,O&O,Concept,B,NH,MANCHESTER,O&O,NORTHEAST,218146,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3825 Pandora @ Pheasant Lane,PANDORA/PHEASAN,USR0006428,O&O,Concept,B,NH,NASHUA,O&O,NORTHEAST,218150,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+Pandora @ Mall at Rockingham Park,PANDORA/ROCKING,USR0046648,O&O,Concept,B,NH,SALEM,O&O,NORTHEAST,218082,New England ,,Stacie Gordon,unknown,Alicia Colcord,Detria Courtalis
+3832 HB Retail / Pandora @ Blakeney Town Center,PANDORA/BLAKENT,USR0006174,O&O,Concept,C,NC,CHARLOTTE,O&O,SOUTH,218519,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3897 Pandora Fayetteville @ Cross Creek Mall,PANDORA/FAYETTE,USR0006266,O&O,Concept,B,NC,FAYETTEVILLE,O&O,SOUTH,218446,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3892 Pandora @ Northlake Mall,PANDORA/NORTHLA,USR0006392,O&O,Concept,B,NC,CHARLOTTE,O&O,SOUTH,218304,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3890 Pandora @ Crabtree Valley,PANDORA/RALEIGH,USR0006447,O&O,Concept,A,NC,RALEIGH,O&O,SOUTH,218137,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3895 Pandora @ South Park Mall NC,PANDORA/SOUTH P,USR0006493,O&O,Concept,,NC,CHARLOTTE,O&O,SOUTH,218172,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3896 Pandora @ Streets at Southpoint,STREETS,USR0008376,O&O,Concept,B,NC,DURHAM,O&O,SOUTH,218152,South Atlantic ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+Pandora @ 12 Oaks Mall,PANDORA/OAKS,USR0046620,O&O,Concept,A,MI,NOVI,O&O,MIDWEST,218170,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+Pandora @ Partridge Creek,PANDORA/PARTRID,USR0046622,O&O,Concept,A,MI,CLINTON TOWNSHIP,O&O,MIDWEST,218228,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+Pandora @ Somerset Collection,PANDORA/SOMERSE,USR0046624,O&O,Concept,A,MI,TROY,O&O,MIDWEST,218244,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3876 Pandora @ Briarwood Mall,PANDORA/BRIARWO,USR0006186,O&O,Concept,B,MI,ANN ARBOR,O&O,MIDWEST,218083,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3877 Pandora @ Eastwood Towne Center,PANDORA/EASTWOO,USR0006256,O&O,Concept,C,MI,LANSING,O&O,MIDWEST,218728,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3879 Pandora @ River Town Crossing,PANDORA/GRANDVI,USR0006288,O&O,Concept,B,MI,GRANDVILLE,O&O,MIDWEST,218388,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3855 Pandora @ Bangor Mall,PANDORA/BANGOR,USR0006160,O&O,Concept,D,ME,BANGOR,O&O,NORTHEAST,218393,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3861 Pandora @ Maine Mall,PANDORA/MALL ME,USR0006349,O&O,Concept,C,ME,SOUTH PORTLAND,O&O,NORTHEAST,218175,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3907 PANDORA @ The Centre at Salisbury - Store #809,C010883,USR0001285,O&O,Concept,B,MD,SALISBURY,O&O,SOUTH,218237,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3840 Pandora Annapolis,PANDORA/ANNAP,USR0006146,O&O,Concept,A,MD,ANNAPOLIS,O&O,SOUTH,218174,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3804 Pandora @ BWI Airport - Store #457,PANDORA/BWI,USR0006196,O&O,Concept,B,MD,Linthincum,O&O,SOUTH,218457,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3843 Pandora Towson #1,PANDORA/TOWSON,USR0006529,O&O,Concept,A,MD,TOWSON,O&O,SOUTH,218149,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3936 Pandora @ Montgomery Mall,PANDORA/MONTGOM,USR0006373,O&O,Concept,A,MD,BETHESDA,O&O,SOUTH,218521,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3815 Pandora @ Prudential Center,HANNOU CONBOSTO,USR0003148,O&O,Concept,B,MA,BOSTON,O&O,NORTHEAST,218110,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3810 Pandora @ Holyoke Mall at Ingleside,HANNOUSH CONCEP,USR0003161,O&O,Concept,A,MA,HOLYOKE,O&O,NORTHEAST,218103,New England ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3857 Pandora @ CambridgeSide Galleria,PANDORA/CAMBRID,USR0006198,O&O,Concept,B,MA,CAMBRIDGE,O&O,NORTHEAST,218255,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3858 Pandora @ Cape Cod,PANDORA/CAPE CO,USR0006199,O&O,Concept,C,MA,HYANNIS,O&O,NORTHEAST,218256,New England ,,Michael Hurd,unknown,Princess Gordis,Jackie Spencer
+3853 Memories at Legacy Place dba Pandora,PANDORA/DEDHAM,USR0006240,O&O,Concept,C,MA,DEDHAM,O&O,NORTHEAST,218511,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3913 Pandora @ Natick Mall,PANDORA/NATICK,USR0006382,O&O,Concept,B,MA,NATICK,O&O,NORTHEAST,218196,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+3862 Pandora @ North Shore Mall,PANDORA/PEABODY,USR0006423,O&O,Concept,B,MA,PEABODY,O&O,NORTHEAST,218120,New England ,,Michael Hurd,unknown,Sandra Miranda,Jackie Spencer
+Pandora @ Burlington Mall,PANDORA/BURLING,USR0046644,O&O,Concept,B,MA,BURLINGTON,O&O,NORTHEAST,NA,New England ,,Stacie Gordon,unknown,Joanne Allen,Detria Courtalis
+Pandora @ South Shore Mall,PANDORA/SOUTH S,USR0046654,O&O,Concept,B,MA,BRAINTREE,O&O,NORTHEAST,NA,New England ,,Stacie Gordon,unknown,Joanne Allen,Detria Courtalis
+3915 Pandora @ Lakeside Mall,PANDORA/LAKESID,USR0006322,O&O,Concept,B,LA,METAIRIE,O&O,SOUTH,218469,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3916 Pandora @ Mall of Louisiana,PANDORA/LOUISIA,USR0006340,O&O,Concept,B,LA,BATON ROUGE,O&O,SOUTH,218111,West South Central ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+Pandora @ Crestview Hills,PANDORA/CRESTVI,USR0046618,O&O,Concept,D,KY,CRESTVIEW HILLS,O&O,SOUTH,218494,East South Central ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+Pandora @ Deer Park Town Center,PANDORA/DEER,USR0046612,O&O,Concept,B,IL,DEER PARK,O&O,MIDWEST,218230,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+Pandora @ Woodfield Mall,PANDORA/WOODFIE,USR0046614,O&O,Concept,AAA,IL,SCHAUMBURG,O&O,MIDWEST,218162,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3903 PANDORA @ Geneva Commons - Store #744,C010679,USR0001209,O&O,Concept,B,IL,GENEVA,O&O,MIDWEST,218744,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3902 PANDORA @ Algonquin Commons - Store #812,C010890,USR0001292,O&O,Concept,B,IL,ALGONQUIN,O&O,MIDWEST,218812,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3823 Pandora @ Marketplace,PANDORA/CHAMPAI,USR0006208,O&O,Concept,C,IL,CHAMPAIGN,O&O,MIDWEST,218377,East North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+Pandora @ Jordan Creek Mall,PANDORA/JORDAN,USR0046616,O&O,Concept,B,IA,WEST DES MOINES,O&O,MIDWEST,218224,West North Central ,,Michael Hurd,unknown,Dorothy Mickiewicz,Jackie Spencer
+3908 PANDORA @ The Forum at Peachtree Parkway - Store #814,C010884,USR0001286,O&O,Concept,B,GA,PEACHTREE CORNERS,O&O,SOUTH,218814,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3909 PANDORA @ Oglethorpe Mall - Store #831,C010886,USR0001288,O&O,Concept,B,GA,SAVANNAH,O&O,SOUTH,218831,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3888 Pandora @ Town Center at Cobb,PANDORA/COBB,USR0006222,O&O,Concept,B,GA,KENNESAW,O&O,SOUTH,218298,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3884 Pandora @ Mall of Georgia,PANDORA/GEORGIA,USR0006285,O&O,Concept,AA,GA,BUFORD,O&O,SOUTH,218186,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3883 Pandora @ Lenox Mall,PANDORA/LENOX,USR0006332,O&O,Concept,A,GA,ATLANTA,O&O,SOUTH,218217,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3887 Pandora @ Shops at River Crossing,PANDORA/MACON,USR0006346,O&O,Concept,C,GA,MACON,O&O,SOUTH,218609,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3885 Pandora @ Northpoint Mall,PANDORA/NORTH,USR0006388,O&O,Concept,B,GA,ALPHARETTA,O&O,SOUTH,218127,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3886 Pandora @ Perimeter Mall,PANDORA/PERIMET,USR0006427,O&O,Concept,B,GA,ATLANTA,O&O,SOUTH,218153,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3824 Pandora @ Broward Mall,PANDORA/BROWARD,USR0006192,O&O,Concept,AA,FL,PLANTATION,O&O,SOUTH,218517,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3846 Pandora @ Disney Springs,PANDORA/DISNEY,USR0006246,O&O,Concept,AAA,FL,LAKE BUENA VISTA,O&O,SOUTH,218491,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3831 Pandora @ Lincoln,PANDORA/LINCOLN,USR0006336,O&O,Concept,A,FL,Miami Beach,O&O,SOUTH,218399,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Vicki White-Loria,Jackie Spencer
+3819 Pandora @ Christiana Mall,PANDORA/CHRISTI,USR0006217,O&O,Concept,A,DE,NEWARK,O&O,SOUTH,218159,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3920 PANDORA @ Dover Mall - Store #813,C010946,USR0001327,O&O,Concept,B,DE,DOVER,O&O,SOUTH,218813,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+3805 Pandora @ Georgetown - Store #467,PANDORA/GEORGET,USR0006284,O&O,Concept,C,DC,WASHINGTON,O&O,SOUTH,218467,South Atlantic ,,SVC-NAM-B2B-CCO-PRD1 #,unknown,Dulce Pino,Jackie Spencer
+Pandora @ Cherry Creek,PANDORA/CREEK,USR0046606,O&O,Concept,B,CO,DENVER,O&O,WEST,218267,Mountain ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+Pandora @ Park Meadows,PANDORA/PARKMEA,USR0046608,O&O,Concept,B,CO,LONE TREE,O&O,WEST,218373,Mountain ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+Pandora @ Southwest Plaza,PANDORA/SOUTHWE,USR0046610,O&O,Concept,D,CO,LITTLETON,O&O,WEST,218622,Mountain ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+3893 Pandora @ Shops at Briargate,PANDORA/BRIARGA,USR0006185,O&O,Concept,C,CO,COLORADO SPRINGS,O&O,WEST,218628,Mountain ,,Michael Hurd,unknown,Kathy Voelkel,Jackie Spencer
+Pandora @ Brea Mall,PANDORA/BREA MA,USF0006184,O&O,Concept,B,CA,BREA,O&O,WEST,218167,Pacific ,,unknown,unknown,unknown,unknown
+Pandora @ Santa Monica,PANDORA/SANTAMO,USF0006474,O&O,Concept,B,CA,SANTA MONICA,O&O,WEST,218190,Pacific ,,unknown,unknown,unknown,unknown
+3816 PANDORA @ New Park Mall - Store #783,C010846,USR0001255,O&O,Concept,B,CA,NEWARK,O&O,WEST,218783,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+3899 PANDORA @ Solano Town Center - Store #791,C010861,USR0001268,O&O,Concept,B,CA,FAIRFIELD,O&O,WEST,218791,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3910 PANDORA @ Village at Corte Madera - Store #815,C010887,USR0001289,O&O,Concept,B,CA,CORTE MADERA,O&O,WEST,218815,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3854 Pandora @ Arden Fair Mall,PANDORA/ARDENFA,USR0006149,O&O,Concept,B,CA,Sacramento,O&O,WEST,218381,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3856 Pandora @ Broadway Plaza,PANDORA/BROADPL,USR0006189,O&O,Concept,C,CA,WALNUT CREEK,O&O,WEST,218680,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3860 Pandora @ Hillsdale Shopping Center,PANDORA/HILLS,USR0006301,O&O,Concept,B,CA,SAN MATEO,O&O,WEST,218369,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+3863 Pandora @ Oakridge Mall,PANDORA/OAKRIDG,USR0006396,O&O,Concept,B,CA,SAN JOSE,O&O,WEST,218364,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+3865 Pandora @ Roseville Galleria,PANDORA/ROSEVIL,USR0006459,O&O,Concept,B,CA,ROSEVILLE,O&O,WEST,218363,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3918 Pandora @ San Francisco Centre,PANDORA/SANFRAN,USR0006469,O&O,Concept,B,CA,SAN FRANCISCO,O&O,WEST,218171,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3869 Pandora @ Valley Fair Mall,PANDORA/SANTACL,USR0006472,O&O,Concept,A,CA,SANTA CLARA,O&O,WEST,218495,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+3866 Pandora @ Santa Rosa Plaza,PANDORA/SANTARO,USR0006476,O&O,Concept,D,CA,SANTA ROSA,O&O,WEST,218679,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3867 Pandora @ Stoneridge Shopping Center,PANDORA/STONERI,USR0006505,O&O,Concept,B,CA,PLEASANTON,O&O,WEST,218365,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3868 Pandora @ Stonestown Galleria,PANDORA/STONEST,USR0006506,O&O,Concept,C,CA,SAN FRANCISCO,O&O,WEST,218400,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
+3875 Pandora @ Valley Plaza,PANDORA/VALLEYP,USR0006543,O&O,Concept,C,CA,BAKERSFIELD,O&O,WEST,218610,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+3919 PANDORA @ Del Monte Center - Store #860,C010947,USR0001328,O&O,Concept,B,CA,MONTEREY,O&O,WEST,218860,Pacific ,,Michael Hurd,unknown,Debbie Kraft-Lee,Jackie Spencer
+Pandora @ Park Plaza Mall,PANDORA/PKPLAZA,USR0046604,O&O,Concept,C,AR,LITTLE ROCK,O&O,SOUTH,218168,West South Central ,,Michael Hurd,unknown,Gerri Gross-Scholl,Jackie Spencer
+3921 PANDORA @ Bay Street - Store #858,C010985,USR0009470,O&O,Concept,B,CA,EMERYVILLE,O&O,WEST,218858,Pacific ,,Michael Hurd,unknown,Rosondra Campbell,Jackie Spencer
